@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+requests==2.19.1
+google-cloud-datastore==1.6.0
